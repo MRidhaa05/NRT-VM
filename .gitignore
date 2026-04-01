@@ -1,0 +1,33 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Rider / JetBrains
+.idea/
+
+# Backup & cache files
+*.cache
+*.pdb
+*.exe
+*.dll
+*.log
+*.db
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Others
+_ReSharper*/
+*.DotSettings.user
+*.userprefs
